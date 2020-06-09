@@ -1,0 +1,153 @@
+
+asset.png
+size: 2048, 2024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+95852d40-981a-48e5-bf16-1d7246f3963f_scaled
+  rotate: false
+  xy: 298, 0
+  size: 102, 239
+  orig: 102, 239
+  offset: 0, 0
+  index: 1
+95852d40-981a-48e5-bf16-1d7246f3963f_scaled
+  rotate: false
+  xy: 594, 0
+  size: 43, 283
+  orig: 43, 283
+  offset: 0, 0
+  index: 2
+95852d40-981a-48e5-bf16-1d7246f3963f_scaled
+  rotate: false
+  xy: 771, 0
+  size: 46, 298
+  orig: 46, 298
+  offset: 0, 0
+  index: 3
+95852d40-981a-48e5-bf16-1d7246f3963f_scaled
+  rotate: false
+  xy: 693, 0
+  size: 78, 289
+  orig: 78, 289
+  offset: 0, 0
+  index: 4
+95852d40-981a-48e5-bf16-1d7246f3963f_scaled
+  rotate: false
+  xy: 817, 0
+  size: 113, 339
+  orig: 113, 339
+  offset: 0, 0
+  index: 5
+95852d40-981a-48e5-bf16-1d7246f3963f_scaled
+  rotate: false
+  xy: 527, 0
+  size: 67, 275
+  orig: 67, 275
+  offset: 0, 0
+  index: 6
+95852d40-981a-48e5-bf16-1d7246f3963f_scaled
+  rotate: false
+  xy: 400, 0
+  size: 56, 240
+  orig: 56, 240
+  offset: 0, 0
+  index: 7
+95852d40-981a-48e5-bf16-1d7246f3963f_scaled
+  rotate: false
+  xy: 637, 0
+  size: 56, 284
+  orig: 56, 284
+  offset: 0, 0
+  index: 8
+95852d40-981a-48e5-bf16-1d7246f3963f_scaled
+  rotate: false
+  xy: 456, 0
+  size: 71, 242
+  orig: 71, 242
+  offset: 0, 0
+  index: 9
+background
+  rotate: false
+  xy: 600, 1001
+  size: 1023, 1023
+  orig: 1023, 1023
+  offset: 0, 0
+  index: -1
+Goal
+  rotate: false
+  xy: 930, 0
+  size: 489, 489
+  orig: 489, 489
+  offset: 0, 0
+  index: -1
+GoalWhite
+  rotate: false
+  xy: 1419, 0
+  size: 489, 489
+  orig: 489, 489
+  offset: 0, 0
+  index: -1
+dashboard
+  rotate: false
+  xy: 0, 1001
+  size: 300, 533
+  orig: 300, 533
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 300, 1001
+  size: 300, 533
+  orig: 300, 533
+  offset: 0, 0
+  index: -1
+restart-btn
+  rotate: false
+  xy: 172, 0
+  size: 126, 53
+  orig: 126, 53
+  offset: 0, 0
+  index: -1
+select-knife-btn
+  rotate: false
+  xy: 0, 0
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+start-btn
+  rotate: false
+  xy: 46, 0
+  size: 126, 52
+  orig: 126, 52
+  offset: 0, 0
+  index: -1
+TN_Piece
+  rotate: false
+  xy: 0, 489
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 0
+TN_Piece
+  rotate: false
+  xy: 512, 489
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 1
+TN_Piece
+  rotate: false
+  xy: 1024, 489
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 2
+TN_Piece
+  rotate: false
+  xy: 1536, 489
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 3
